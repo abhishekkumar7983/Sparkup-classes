@@ -1,4 +1,4 @@
-body {
+.index {
     margin: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -69,4 +69,34 @@ h3 {
 }
 .bottom-container{
     background-color: #e4f9f5;   
+}
+.phone {
+     height: 20px;
+     width: 20px;
+}
+.btn {
+    text-decoration: underline;
+}
+.phonecall{
+       text-decoration: underline;
+}
+.gmail {
+    text-decoration: underline;
+}
+.hath {
+    height: 40px;
+    width: 40px;
+}
+
+.hath1 {
+    height: 20px;
+    width: 20px;
+}
+.hand{
+    height: 30px;
+    width: 30px;
+}
+.gmail {
+    height: 20px;
+    width: 20px;
 }
